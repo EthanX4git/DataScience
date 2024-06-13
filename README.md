@@ -1,1 +1,2 @@
-For a Data Science course.
+For Data Science course.
+Cheers!
